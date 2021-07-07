@@ -5,19 +5,19 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>നീ ഏതാ മോനൂസെ എന്നെ @FiLMO_GROUPഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ പറ്റൂ... @th_e_n_y_to_xi_c ആണ് എന്റെ മുതലാളി.. 🤭 
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+vechit vere pani ondon nokk........😃 😄
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@FiLMO_GROUP
 </i>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
+-> ''oho noway 😄
 -> Add Me To Your Desired Channel
 </i>
 
@@ -43,13 +43,9 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@FiLMO_GROUP
 """
-    
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
-    
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
-
+      +ABOUT_TEXT = """<b>➥ Name</b> : <c]=
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
